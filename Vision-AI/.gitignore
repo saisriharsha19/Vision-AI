@@ -1,0 +1,35 @@
+# Ignore Python virtual environments
+backend/.venv/
+backend/env/
+backend/venv/
+
+# Ignore IDE/editor configurations (e.g., VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore log files
+*.log
+
+# Ignore FastAPI / backend specific files (if any)
+backend/.pytest_cache/
+backend/.mypy_cache/
+
+# Ignore node_modules for Next.js frontend
+frontend/node_modules/
+
+# Ignore build files for Next.js frontend
+frontend/.next/
+frontend/out/
+
+# Ignore environment files (if you have any)
+.env
+
+# Ignore package manager lock files for frontend (optional)
+frontend/package-lock.json
+frontend/yarn.lock
