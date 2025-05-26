@@ -108,13 +108,13 @@ cd frontend/chatbot-ui && npm run dev
 <div align="center">
 
 ### 🖥️ **Desktop Experience**
-![Desktop Demo](https://via.placeholder.com/600x400/f3f4f6/1f2937?text=Desktop+Chat+Interface)
+![Desktop Demo](https://chatbot-ui-saisriharsha19-sai-sri-harshas-projects.vercel.app/)
 
 ### 📱 **Mobile Experience**  
-![Mobile Demo](https://via.placeholder.com/300x600/1e3a8a/ffffff?text=Mobile+Responsive+Design)
+![Mobile Demo](https://chatbot-ui-saisriharsha19-sai-sri-harshas-projects.vercel.app/)
 
 ### 🎨 **Dark Mode**
-![Dark Mode](https://via.placeholder.com/600x400/1f2937/f3f4f6?text=Beautiful+Dark+Mode)
+![Dark Mode](https://chatbot-ui-saisriharsha19-sai-sri-harshas-projects.vercel.app/)
 
 </div>
 
