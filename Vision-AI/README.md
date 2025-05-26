@@ -463,9 +463,9 @@ pip install openai-whisper speechrecognition
 
 **Sai Sri Harsha Guddati**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)
+[LinkedIn](https://www.linkedin.com/in/sai-sri-harsha-guddati-552373180/)
+[GitHub](https://github.com/saisriharsha19)
+[Portfolio](https://saisriharsha.me)
 
 *Passionate AI/ML developer creating intelligent solutions for the future*
 
